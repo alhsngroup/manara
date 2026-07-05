@@ -1,48 +1,49 @@
 {
     "version": "1",
+	"identifier": "tha_f1s1",
     "data": [
-		{"code": "tha_f1s1", "ver": "1"},
-		{"code": "tha_f1s1_arabic_b", "ver": "1"},
-		{"code": "tha_f1s1_arabic_s", "ver": "1"},
-		{"code": "tha_f1s1_arabic_m", "ver": "1"},
-		{"code": "tha_f1s1_math_b", "ver": "1"},
-		{"code": "tha_f1s1_math_s", "ver": "1"},
-		{"code": "tha_f1s1_math_m", "ver": "1"},
-		{"code": "tha_f1s1_drasat_b", "ver": "1"},
-		{"code": "tha_f1s1_drasat_s", "ver": "1"},
-		{"code": "tha_f1s1_drasat_m", "ver": "1"},
-		{"code": "tha_f1s1_science_b", "ver": "1"},
-		{"code": "tha_f1s1_science_s", "ver": "1"},
-		{"code": "tha_f1s1_science_m", "ver": "1"},
-		{"code": "tha_f1s1_english_b", "ver": "1"},
-		{"code": "tha_f1s1_english_s", "ver": "1"},
-		{"code": "tha_f1s1_english_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_shafae_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_shafae_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_shafae_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hanafi_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hanafi_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hanafi_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_malaki_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_malaki_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_malaki_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hanbali_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hanbali_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hanbali_m", "ver": "1"},
-		{"code": "tha_f1s1_aswoul_b", "ver": "1"},
-		{"code": "tha_f1s1_aswoul_s", "ver": "1"},
-		{"code": "tha_f1s1_aswoul_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hadith_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hadith_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_hadith_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_nhw_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_nhw_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_nhw_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_sarf_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_sarf_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_sarf_m", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_balagha_b", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_balagha_s", "ver": "1"},
-		{"code": "tha_f1s1_fiqh_balagha_m", "ver": "1"}
+		{"code": "tha_f1s1", "ver": "1", "url": "tha_f1s1"}
+		{"code": "tha_f1s1_arabic_b", "ver": "1", "url": "tha_f1s1_arabic_b"}
+		{"code": "tha_f1s1_arabic_s", "ver": "1", "url": "tha_f1s1_arabic_s"}
+		{"code": "tha_f1s1_arabic_m", "ver": "1", "url": "tha_f1s1_arabic_m"}
+		{"code": "tha_f1s1_math_b", "ver": "1", "url": "tha_f1s1_math_b"}
+		{"code": "tha_f1s1_math_s", "ver": "1", "url": "tha_f1s1_math_s"}
+		{"code": "tha_f1s1_math_m", "ver": "1", "url": "tha_f1s1_math_m"}
+		{"code": "tha_f1s1_drasat_b", "ver": "1", "url": "tha_f1s1_drasat_b"}
+		{"code": "tha_f1s1_drasat_s", "ver": "1", "url": "tha_f1s1_drasat_s"}
+		{"code": "tha_f1s1_drasat_m", "ver": "1", "url": "tha_f1s1_drasat_m"}
+		{"code": "tha_f1s1_science_b", "ver": "1", "url": "tha_f1s1_science_b"}
+		{"code": "tha_f1s1_science_s", "ver": "1", "url": "tha_f1s1_science_s"}
+		{"code": "tha_f1s1_science_m", "ver": "1", "url": "tha_f1s1_science_m"}
+		{"code": "tha_f1s1_english_b", "ver": "1", "url": "tha_f1s1_english_b"}
+		{"code": "tha_f1s1_english_s", "ver": "1", "url": "tha_f1s1_english_s"}
+		{"code": "tha_f1s1_english_m", "ver": "1", "url": "tha_f1s1_english_m"}
+		{"code": "tha_f1s1_fiqh_shafae_b", "ver": "1", "url": "tha_f1s1_fiqh_shafae_b"}
+		{"code": "tha_f1s1_fiqh_shafae_s", "ver": "1", "url": "tha_f1s1_fiqh_shafae_s"}
+		{"code": "tha_f1s1_fiqh_shafae_m", "ver": "1", "url": "tha_f1s1_fiqh_shafae_m"}
+		{"code": "tha_f1s1_fiqh_hanafi_b", "ver": "1", "url": "tha_f1s1_fiqh_hanafi_b"}
+		{"code": "tha_f1s1_fiqh_hanafi_s", "ver": "1", "url": "tha_f1s1_fiqh_hanafi_s"}
+		{"code": "tha_f1s1_fiqh_hanafi_m", "ver": "1", "url": "tha_f1s1_fiqh_hanafi_m"}
+		{"code": "tha_f1s1_fiqh_malaki_b", "ver": "1", "url": "tha_f1s1_fiqh_malaki_b"}
+		{"code": "tha_f1s1_fiqh_malaki_s", "ver": "1", "url": "tha_f1s1_fiqh_malaki_s"}
+		{"code": "tha_f1s1_fiqh_malaki_m", "ver": "1", "url": "tha_f1s1_fiqh_malaki_m"}
+		{"code": "tha_f1s1_fiqh_hanbali_b", "ver": "1", "url": "tha_f1s1_fiqh_hanbali_b"}
+		{"code": "tha_f1s1_fiqh_hanbali_s", "ver": "1", "url": "tha_f1s1_fiqh_hanbali_s"}
+		{"code": "tha_f1s1_fiqh_hanbali_m", "ver": "1", "url": "tha_f1s1_fiqh_hanbali_m"}
+		{"code": "tha_f1s1_aswoul_b", "ver": "1", "url": "tha_f1s1_aswoul_b"}
+		{"code": "tha_f1s1_aswoul_s", "ver": "1", "url": "tha_f1s1_aswoul_s"}
+		{"code": "tha_f1s1_aswoul_m", "ver": "1", "url": "tha_f1s1_aswoul_m"}
+		{"code": "tha_f1s1_fiqh_hadith_b", "ver": "1", "url": "tha_f1s1_fiqh_hadith_b"}
+		{"code": "tha_f1s1_fiqh_hadith_s", "ver": "1", "url": "tha_f1s1_fiqh_hadith_s"}
+		{"code": "tha_f1s1_fiqh_hadith_m", "ver": "1", "url": "tha_f1s1_fiqh_hadith_m"}
+		{"code": "tha_f1s1_fiqh_nhw_b", "ver": "1", "url": "tha_f1s1_fiqh_nhw_b"}
+		{"code": "tha_f1s1_fiqh_nhw_s", "ver": "1", "url": "tha_f1s1_fiqh_nhw_s"}
+		{"code": "tha_f1s1_fiqh_nhw_m", "ver": "1", "url": "tha_f1s1_fiqh_nhw_m"}
+		{"code": "tha_f1s1_fiqh_sarf_b", "ver": "1", "url": "tha_f1s1_fiqh_sarf_b"}
+		{"code": "tha_f1s1_fiqh_sarf_s", "ver": "1", "url": "tha_f1s1_fiqh_sarf_s"}
+		{"code": "tha_f1s1_fiqh_sarf_m", "ver": "1", "url": "tha_f1s1_fiqh_sarf_m"}
+		{"code": "tha_f1s1_fiqh_balagha_b", "ver": "1", "url": "tha_f1s1_fiqh_balagha_b"}
+		{"code": "tha_f1s1_fiqh_balagha_s", "ver": "1", "url": "tha_f1s1_fiqh_balagha_s"}
+		{"code": "tha_f1s1_fiqh_balagha_m", "ver": "1", "url": "tha_f1s1_fiqh_balagha_m"}
     ]
 }
